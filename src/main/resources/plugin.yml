@@ -1,0 +1,4 @@
+name: voicechat-autogroup
+version: '${version}'
+main: de.zykl.mine.voicechat.autogroup.VoicechatAutogroup
+api-version: '1.20'
